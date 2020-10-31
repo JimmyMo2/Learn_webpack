@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="Menu" unicode="&#58963;" d="M800 202.666667v-42.666667H224v42.666667h576z m0 202.666666v-42.666666H224v42.666666h576z m0 202.666667v-42.666667H224v42.666667h576z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="Previous" unicode="&#58968;" d="M643.690667 37.770667L352 381.546667 643.690667 725.333333l30.901333-26.229333-269.44-317.557333L674.592 64z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="NextorLink" unicode="&#58969;" d="M382.901333 37.770667L674.592 381.546667 382.901333 725.333333 352 699.104 621.44 381.546667 352 64z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="Play" unicode="&#58973;" d="M309.333333 641.237333v-523.808l458.336 262.570667L309.333333 641.237333z m-42.666666-597.429333V714.666667l586.997333-334.570667L266.666667 43.808z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
