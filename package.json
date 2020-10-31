@@ -18,10 +18,13 @@
   "homepage": "https://github.com/JimmyMo2/Learn_webpack#readme",
   "devDependencies": {
     "css-loader": "^5.0.0",
+    "file-loader": "^6.2.0",
+    "html-loader": "^1.3.2",
     "html-webpack-plugin": "^4.5.0",
     "less": "^3.12.2",
     "less-loader": "^7.0.2",
     "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
     "webpack": "^5.3.2",
     "webpack-cli": "^4.1.0"
   }
